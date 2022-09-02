@@ -1,0 +1,1 @@
+web: run go main.go
